@@ -3,7 +3,7 @@
 #
 #	 Twitter character limit (280) minus header space
 #
-# 	Author 	:: 	chrisfxwol
+# 	Author 	:: 	chrisfxwolf
 #	Version ::	1.0
 #	Data  	::	23 July 2025
 #
