@@ -22,22 +22,22 @@ A bash script that automatically divides long text into properly formatted Twitt
 
 Ther is a servar method to use this script.
 
-## Method 1: From a file
+### Method 1: From a file
 ```bash
 ./twitter_split.sh -f your_text_file.txt
 ```
 
-## Method 2: From standard input
+### Method 2: From standard input
 ```bash
 echo "Your long text here" | ./twitter_split.sh
 ```
 
-## Method 3: From a pipe
+### Method 3: From a pipe
 ```bash
 cat your_text_file.txt | ./twitter_split.sh
 ```
 
-## If you need help type
+### Help, If you need help type
 ```bash
 ./twitter_split.sh -h
 ```
